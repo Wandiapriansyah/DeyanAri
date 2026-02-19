@@ -21,7 +21,7 @@
 @-webkit-keyframes wdpMP3-muter { 100% { -webkit-transform: rotate(360deg); } }
 @keyframes wdpMP3-muter { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }/* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-3eca339 */#amplop{
-    display: none;
+    display: block;
 }/* End custom CSS */
 /* Start custom CSS for weddingpress-kit2, class: .elementor-element-3c139e7 *//*menyembunyikan jumlah komentar*/
 .cui-wrap-link {
